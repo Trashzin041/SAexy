@@ -49,7 +49,7 @@ do
             if (theme == 'cherry') then          -- red
                 theme = {
                     Primary = Color3.fromRGB(166, 80, 207);
-                    Secondary = Color3.fromRGB(247, 22, 149);
+                    Secondary = Color3.fromRGB(105, 80, 207);
                     
                     Window1 = Color3.fromRGB(11, 11, 11);
                     Window2 = Color3.fromRGB(5, 5, 5);
